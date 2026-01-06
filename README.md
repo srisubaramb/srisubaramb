@@ -1,15 +1,17 @@
-## Hi there 👋 It's me Srisubaram
+# Hi — I’m Srisubaram (Srisubaram B) 👋  
+**AWS Certified Cloud Practitioner (CLF-C02)** · **AWS re/Start Graduate**  
+Entry-level Cloud Engineer — EC2 · ALB · VPC · CloudWatch · Linux
 
-Pursuing B.E(ECE) @ PSNACET
-- 🌱 I’m exploring web development
-- completed job simulation by Verizon as CCE
-- currently developing skill at Freecodecamp's JS certification
-- I am looking forward to be placed as full-time/ Inter at IT companies
+---
 
-### I Code in
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000">
+## About
+I build and validate small, reproducible AWS environments. I focus on practical infra skills: EC2 provisioning, ALB path-based routing, VPC/networking, simple automation (user-data / AWS CLI), and basic monitoring (CloudWatch). I convert web apps into cloud-ready deployments and document reproducible steps so others can reproduce or extend them.
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000"> <img height = "50" width = "50" src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000"> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/> 
+Credly / Certs: https://www.credly.com/users/srisubaramb  
+LinkedIn: https://linkedin.com/in/srisubaramb  
+Email: srisubaramb@gmail.com
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SRISUBARAMB?theme=dark&font=Inria%20Sans&ext=heatmap)
+---
+
+
+
