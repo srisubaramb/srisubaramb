@@ -1,75 +1,112 @@
 # Hi 👋 I'm Srisubaram B
 
-### Full Stack Developer | React • Node.js • Express.js • MongoDB • PostgreSQL • AWS Certified Cloud Practitioner
+### React Native & Full-Stack Developer | React • React Native • TypeScript • Node.js
 
-I'm a Full Stack Developer passionate about building responsive web applications, REST APIs, and cloud-based solutions.
+I'm a software developer focused on building and shipping **mobile and web applications**.
 
-💻 Frontend:
-HTML • CSS • JavaScript • React
+I work primarily with **React, React Native, Expo, TypeScript, Node.js, REST APIs, SQLite, MongoDB and PostgreSQL**, with additional experience in AWS and Docker.
 
-⚙️ Backend:
-Node.js • Express.js
+I enjoy turning practical ideas into working products, from designing interfaces and APIs to managing databases, building Android applications, and deploying applications.
 
-🗄️ Databases:
-MongoDB • PostgreSQL • MySQL
-
-☁️ Cloud:
-AWS (EC2, VPC, ALB, IAM, S3, CloudFormation)
-
-🐳 Tools:
-Git • GitHub • Docker • Linux
+---
 
 ## 🚀 Featured Projects
 
-### ✈️ Flight Search Web Application
-React • Node.js • REST API
+### 📱 Sinz POS — Android POS Application
 
-A responsive flight booking interface integrated with external APIs.
+**React Native • Expo • TypeScript • SQLite**
+
+A production Android POS application built and published under **SINz Peaks**.
+
+- Product and category management
+- Order workflows
+- Payment history
+- Split-payment flows
+- SQLite local-first data persistence
+- Database migrations
+- Production Android builds and Play Store releases
+
+🔗 **Google Play:** [Sinz POS](https://play.google.com/store/apps/details?id=com.sinzpeaks.sinzpos)
+
+---
+### ✈️ TripReserve — AI-Powered Travel Application
+
+**React • Node.js • REST APIs • AI Agent**
+
+A travel application for discovering and planning trips, recently enhanced with an AI agent to provide an intelligent travel experience.
+
+- Built a responsive travel-focused web application
+- Integrated an AI agent into the application
+- Implemented interactive travel planning workflows
+- Designed the application with a modern React-based frontend
+
+🔗 **Live:** [TripReserve](https://tripreserve.vercel.app/)
+
+---
+
+### 🎮 Math Loop
+
+**Godot • GDScript • Firebase • AdMob**
+
+Android puzzle game built and published on Google Play.
+
+🔗 **Google Play:** [Math Loop](https://play.google.com/store/apps/details?id=com.sinzstudios.mathloop)
 
 ---
 
 ### 🎯 Word Masters
 
-HTML • CSS • JavaScript • REST API
+**HTML • CSS • JavaScript • REST API**
 
-A Wordle-inspired browser game built using vanilla JavaScript.
-
----
-
-### 🌍 World Tour — AWS ALB Path Routing
-
-AWS EC2 • ALB • VPC • Linux
-
-Configured path-based routing using Application Load Balancer with multiple EC2 instances.
+An interactive Wordle-style browser game with dynamic word validation, scoring, and responsive UI.
 
 ---
 
-### 🧰 SinzTools
+### ☁️ World Tour — AWS ALB Path Routing
 
-Privacy-first browser utilities for image conversion, compression and resizing.
+**AWS EC2 • Application Load Balancer • VPC • Linux**
 
-## 🎮 Math Loop
+Configured path-based routing using an Application Load Balancer with multiple EC2 instances.
 
-**Godot Engine • Firebase • AdMob**
+---
 
-Android puzzle game, Rewarded Ads integration, Published on Google Play Store.
+## 🛠️ Tech Stack
+
+### 📱 Mobile
+
+React Native • Expo • TypeScript • SQLite • Android
+
+### 🎨 Frontend
+
+React • JavaScript • HTML • CSS • Tailwind CSS
+
+### ⚙️ Backend
+
+Node.js • Express.js • REST APIs
+
+### 🗄️ Databases
+
+SQLite • PostgreSQL • MongoDB • MySQL
+
+### ☁️ Cloud & Tools
+
+AWS • Docker • Git • GitHub • Postman • Vercel • Netlify
+
+---
 
 ## 🏆 Certifications
 
 - AWS Certified Cloud Practitioner (CLF-C02)
 - AWS re/Start Graduate
-- MERN Stack Development – Axess Technology, Tidel Park
-- Git & GitHub – DataCamp
-- PostgreSQL – DataCamp
+- Git & GitHub — DataCamp
+- PostgreSQL — DataCamp
+- Getting Started with MongoDB Atlas — MongoDB
+- Complete Intro to Web Development — Frontend Masters
 
+---
 
 ## 📫 Connect With Me
 
-📧 Email: srisubaramb@gmail.com
+📧 **Email:** [srisubaramb@gmail.com](mailto:srisubaramb@gmail.com)
 
-💼 LinkedIn:
-https://linkedin.com/in/srisubaramb
-
-💻 GitHub:
-https://github.com/srisubaramb
-
+💼 **LinkedIn:** [linkedin.com/in/srisubaramb](https://www.linkedin.com/in/srisubaramb/)
